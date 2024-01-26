@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: Personal blockers
+! Expires: 1 day
+! Last update: 27 January 2024
+! Issue tracker: https://github.com/drizt/ubo-filters/issues
+
 ntv.ru###newplayer
 ntv.ru##.ui-draggable.ui-draggable-handle
 ikirov.ru##.navbar-extended
