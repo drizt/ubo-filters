@@ -252,3 +252,6 @@ health-diet.ru##div[data-test="publishDiaryNote"]
 
 ! 2024-01-26 https://vk.com
 vk.com##.feed_row:has(#recommended_narratives)
+
+! 2024-02-15 https://blog.logrocket.com
+blog.logrocket.com###gutter
