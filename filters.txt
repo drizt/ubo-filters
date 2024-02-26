@@ -14,7 +14,7 @@ simplified.guide##div[style="padding-bottom: 0px"]
 simplified.guide##.card.mb-3.border-danger
 pozvonok72.ru###uralmicro_button
 vk.com##.feed_friends_recomm__title
-vk.com##.ui_gallery__inner_cont
+! vk.com##.ui_gallery__inner_cont -- hide photos in group
 habr.com##.default-block.default-block_sidebar
 vk.com##.stories_feed_items_wrap
 vk.com##.stories_feed_title.clear_fix
