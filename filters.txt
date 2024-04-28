@@ -255,3 +255,9 @@ vk.com##.feed_row:has(#recommended_narratives)
 
 ! 2024-02-15 https://blog.logrocket.com
 blog.logrocket.com###gutter
+
+! 2024-04-23 https://opticstrade.com
+opticstrade.com##.carrot-messenger-collapsed-frame
+
+! 2024-04-28 https://vk.com
+vk.com##.vk-protect-security-status-icon
