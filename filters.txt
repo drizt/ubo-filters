@@ -261,3 +261,12 @@ opticstrade.com##.carrot-messenger-collapsed-frame
 
 ! 2024-04-28 https://vk.com
 vk.com##.vk-protect-security-status-icon
+
+! 2024-05-02 https://xn--72-6kc1cjm0a.xn--p1ai
+||xn--72-6kc1cjm0a.xn--p1ai/sites/all/themes/roso/img/flowers.png$image
+
+! May 24, 2024 https://probeg.org
+||probeg.org/static2/ads/placeholders/yellow-calendar-1500.png$image
+
+! May 26, 2024 https://2gis.ru
+2gis.ru##div[data-divider="true"] a[href="/tyumen/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1"]
