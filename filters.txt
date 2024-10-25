@@ -270,3 +270,69 @@ vk.com##.vk-protect-security-status-icon
 
 ! May 26, 2024 https://2gis.ru
 2gis.ru##div[data-divider="true"] a[href="/tyumen/search/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1"]
+
+! Jun 4, 2024 https://www.forbes.ru
+www.forbes.ru##._6EXjO.NS022.qlmJ1.cMH8R
+
+! Jun 13, 2024 https://vk.com
+vk.com##[class*="StoryBlock-module__container--"]
+vk.com##.stories_feed_wrap
+
+! Jun 20, 2024 https://vk.com
+vk.com###friends_right_blocks_root > .vkui__root > .vkuiInternalGroupCard.Group-module__groupModeCard--bGIrq.Group-module__groupPaddingM--qj3wo.Group-module__group--lRMIn.vkuiGroup--padding-m.vkuiInternalGroup--mode-card.vkuiGroup--mode-card.vkuiGroup.vkuiInternalGroup
+
+! Jul 1, 2024 https://www.ozon.ru
+www.ozon.ru##div[data-widget="bubbleRateBoughtItem"]
+
+! Jul 10, 2024 https://2gis.ru
+||2gis.ru/public/promo/friendsPromoButton.png$image
+2gis.ru##._17xji7fx
+
+! Jul 15, 2024 https://tsargrad.tv
+tsargrad.tv##img.news-slider__image
+
+! Jul 20, 2024 https://opermap.mash.ru
+opermap.mash.ru###logo > svg
+
+! Jul 21, 2024 https://34.rospotrebnadzor.ru
+||34.rospotrebnadzor.ru/upload/medialibrary/961/f3b3c4289vaus83xmr8n1jiiys66ivi5/%D0%A1%D0%90%D0%9D%D0%A9%D0%98%D0%A2_%D0%91%D0%90%D0%9D%D0%9D%D0%95%D0%A0.gif$image
+
+! Aug 2, 2024 https://www.ozon.ru
+www.ozon.ru##div:has(> a[href="https://www.ozon.ru/section/limit"])
+
+! Aug 16, 2024 https://tmn.sm.news
+||web.tolstoycomments.com/widget/banner.html?t=574606761$subdocument
+||web.tolstoycomments.com/widget/banner.html$subdocument
+
+! Aug 24, 2024 https://autoprokat72.ru
+autoprokat72.ru##.cbk-phone-bgr
+autoprokat72.ru##.cbk-phone-text-none.cbk-phone-sm.cbk-phone.callbackkiller
+
+! Aug 31, 2024 https://fitberri72.ru
+fitberri72.ru##div.indial-window-leeloo
+
+! Sep 1, 2024 https://www.ozon.ru
+www.ozon.ru##div[data-widget="objectBannerList"]
+
+! Sep 4, 2024 https://vk.com
+vk.com##section.FriendsSuggestionsBlock
+
+! Sep 9, 2024 https://sport-marafon.ru
+sport-marafon.ru##div.product-list
+sport-marafon.ru##div.article-button a[href^="/catalog/"]
+sport-marafon.ru##div.article-button a[href="/snaryazhenie-dlya-gonok-s-prepyatstviyami/"]
+
+! Sep 10, 2024 https://tmn.dom.ru
+tmn.dom.ru###hat
+
+! Sep 24, 2024 https://www.rlsnet.ru
+www.rlsnet.ru##.d-block.justify-content-lg-between.d-lg-flex.banner-group--methods.banner-group.js-banner-group > div
+www.rlsnet.ru##.b-tile-banner-wrap
+www.rlsnet.ru##.b-tile-banner-wrap
+www.rlsnet.ru##.justify-content-md-between.d-flex.banner-group--methods.banner-group.js-banner-group > div
+
+! Oct 2, 2024 https://aliexpress.ru
+aliexpress.ru##.ModuleBanner_ModuleBanner__outer-wrapper__100x6 > div
+
+! Oct 11, 2024 https://dzen.ru
+dzen.ru##.content--article-action-island-desktop__mOf2Hj_EcOB5J-12
