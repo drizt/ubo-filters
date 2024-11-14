@@ -336,3 +336,9 @@ aliexpress.ru##.ModuleBanner_ModuleBanner__outer-wrapper__100x6 > div
 
 ! Oct 11, 2024 https://dzen.ru
 dzen.ru##.content--article-action-island-desktop__mOf2Hj_EcOB5J-12
+
+! Nov 1, 2024 https://tyumen.kassy.ru
+||vk.com/reforged_widget.php$subdocument
+
+! Nov 14, 2024 https://vk.com
+vk.com##div.feed_row:has(div.ads_light_container)
