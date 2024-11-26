@@ -342,3 +342,6 @@ dzen.ru##.content--article-action-island-desktop__mOf2Hj_EcOB5J-12
 
 ! Nov 14, 2024 https://vk.com
 vk.com##div.feed_row:has(div.ads_light_container)
+
+! Nov 26, 2024 https://vk.com
+vk.com##div.feed_row:has(div.ads_wall_text)
