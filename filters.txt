@@ -345,3 +345,9 @@ vk.com##div.feed_row:has(div.ads_light_container)
 
 ! Nov 26, 2024 https://vk.com
 vk.com##div.feed_row:has(div.ads_wall_text)
+
+! Dec 20, 2024 https://lkfl2.nalog.ru
+lkfl2.nalog.ru##.lg\:h-20.p-4.bg-primary-100.justify-center.items-center.md\:flex.hidden
+
+! Feb 5, 2025 https://vk.com
+vk.com##div.feed_rovv
