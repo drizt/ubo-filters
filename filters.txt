@@ -351,3 +351,6 @@ lkfl2.nalog.ru##.lg\:h-20.p-4.bg-primary-100.justify-center.items-center.md\:fle
 
 ! Feb 5, 2025 https://vk.com
 vk.com##div.feed_rovv
+
+! Feb 12, 2025 https://vk.com
+vk.com##div.feed_row:not(:has(button[data-testid="post_context_menu_toggle"]))
