@@ -355,5 +355,19 @@ vk.com##div.feed_rovv
 ! Feb 12, 2025 https://vk.com
 vk.com###feed_wall div.feed_row:not(:has(button[data-testid="post_context_menu_toggle"]))
 
+! Apr 22, 2025 https://www.ozon.ru
+www.ozon.ru##div[data-widget="webInstallmentPurchase"]
+
+! May 15, 2025 https://jestjs.io
+jestjs.io##.announcementBarContent_t7IR.content_bSb_
+
+! Aug 1, 2025 https://tjumen.metta.ru
+||tjumen.metta.ru/local/templates/v2/additional/images/brands_ergolife_860_560.jpg$image
+tjumen.metta.ru##.ws-icon-phone
+tjumen.metta.ru##.cbk-rotate-icon.cbk-phone-phone
+tjumen.metta.ru##.cbk-phone-bgr
+tjumen.metta.ru##.cbk-phone-circle
+tjumen.metta.ru##.cbk-phone-wild.cbk-phone-text-none.cbk-phone-sm.cbk-phone.callbackkiller
+
 ! Sep 20, 2025 https://vk.com
 vk.com##div.feed_row:has(button[aria-label="Подписаться"])
