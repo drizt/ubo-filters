@@ -354,3 +354,6 @@ vk.com##div.feed_rovv
 
 ! Feb 12, 2025 https://vk.com
 vk.com###feed_wall div.feed_row:not(:has(button[data-testid="post_context_menu_toggle"]))
+
+! Sep 20, 2025 https://vk.com
+vk.com##div.feed_row:has(button[aria-label="Подписаться"])
