@@ -371,3 +371,6 @@ tjumen.metta.ru##.cbk-phone-wild.cbk-phone-text-none.cbk-phone-sm.cbk-phone.call
 
 ! Sep 20, 2025 https://vk.com
 vk.com##div.feed_row:has(button[aria-label="Подписаться"])
+
+! Nov 9, 2025 https://vk.com
+vk.com##article:has(button[data-testid="post-header-subscription-button"])
