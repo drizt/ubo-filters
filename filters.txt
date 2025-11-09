@@ -376,3 +376,4 @@ vk.com##div.feed_row:has(button[aria-label="Подписаться"])
 vk.com##article:has(button[data-testid="post-header-subscription-button"])
 vk.com##div[class*="StoryBlock__"]
 vk.com##div.LegalRecommendationsLinkLeftMenuAuthorized
+chatgpt.com##div.text-token-text-secondary:has-text(/ChatGPT can make mistakes. Check important info/)
