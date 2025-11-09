@@ -374,3 +374,4 @@ vk.com##div.feed_row:has(button[aria-label="Подписаться"])
 
 ! Nov 9, 2025 https://vk.com
 vk.com##article:has(button[data-testid="post-header-subscription-button"])
+vk.com##div[class*="StoryBlock__"]
