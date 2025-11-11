@@ -377,3 +377,8 @@ vk.com##article:has(button[data-testid="post-header-subscription-button"])
 vk.com##div[class*="StoryBlock__"]
 vk.com##div.LegalRecommendationsLinkLeftMenuAuthorized
 chatgpt.com##div.text-token-text-secondary:has-text(/ChatGPT can make mistakes. Check important info/)
+
+! Nov 11, 2025 https://vds.menu
+vds.menu##div:has(> div.panel.panel-info)
+vds.menu##div:has(> a[href^="/out.php"])
+vds.menu##tr.info
