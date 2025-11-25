@@ -384,4 +384,4 @@ vds.menu##div:has(> a[href^="/out.php"])
 vds.menu##tr.info
 
 ! Nov 25, 2025 https://dom.ru
-dom.ru###hat
+dom.ru##div[data-test="header-hat"]
