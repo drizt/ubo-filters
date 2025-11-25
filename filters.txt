@@ -382,3 +382,6 @@ chatgpt.com##div.text-token-text-secondary:has-text(/ChatGPT can make mistakes. 
 vds.menu##div:has(> div.panel.panel-info)
 vds.menu##div:has(> a[href^="/out.php"])
 vds.menu##tr.info
+
+! Nov 25, 2025 https://dom.ru
+dom.ru###hat
