@@ -385,3 +385,10 @@ vds.menu##tr.info
 
 ! Nov 25, 2025 https://dom.ru
 dom.ru##div[data-test="header-hat"]
+
+! Nov 27, 2025 https://lk-perm.ural.mts.ru
+lk-perm.ural.mts.ru##div.lk-banner
+
+! Jan 30, 2026 https://habr.com
+habr.com##div.code-explainer
+habr.com##.tm-header__feature.header-feature > .link
