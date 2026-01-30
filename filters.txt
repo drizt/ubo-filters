@@ -392,3 +392,5 @@ lk-perm.ural.mts.ru##div.lk-banner
 ! Jan 30, 2026 https://habr.com
 habr.com##div.code-explainer
 habr.com##.tm-header__feature.header-feature > .link
+habr.com##div[cookiename="habr-editorial-subscription"]
+habr.com##div.tm-article-blocks__comments+section
