@@ -394,3 +394,6 @@ habr.com##div.code-explainer
 habr.com##.tm-header__feature.header-feature > .link
 habr.com##div[cookiename="habr-editorial-subscription"]
 habr.com##div.tm-article-blocks__comments+section
+
+! Feb 7, 2026 https://dzen.ru
+dzen.ru##div[class*="content--article-action-island-desktop__container-"]
