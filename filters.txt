@@ -397,3 +397,6 @@ habr.com##div.tm-article-blocks__comments+section
 
 ! Feb 7, 2026 https://dzen.ru
 dzen.ru##div[class*="content--article-action-island-desktop__container-"]
+
+! Mar 3, 2026 https://vk.com
+vk.com##section[data-testid="groups-recommendation-block"]
