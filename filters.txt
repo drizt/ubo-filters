@@ -400,3 +400,10 @@ dzen.ru##div[class*="content--article-action-island-desktop__container-"]
 
 ! Mar 3, 2026 https://vk.com
 vk.com##section[data-testid="groups-recommendation-block"]
+
+! Mar 25, 2026 moz-extension://58676396-8ffe-4726-9aaf-d73baf44a89e
+58676396-8ffe-4726-9aaf-d73baf44a89e##mdn-placement-sidebar
+
+! Mar 28, 2026 https://habr.com
+habr.com##div[data-test-id^="AdvertisingAndEvents_"]
+habr.com##div[data-test-id^="AdvertisingAndStories_"]
