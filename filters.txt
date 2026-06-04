@@ -414,3 +414,6 @@ www.prisma.io##div:has(> div > div > div > img[src$="/sidebar-banners/prisma-nex
 ! May 16, 2026 https://youtube.com
 youtube.com###movie_player div.ytp-fullscreen-grid-stills-container
 youtube.com###movie_player div.ytp-ce-hide-button-container.ytp-ce-element-show
+
+! Jun 4, 2026 https://lk.megafon.ru
+lk.megafon.ru##div.stories-list
