@@ -456,3 +456,5 @@ youtube.com###movie_player div.ytp-ce-hide-button-container.ytp-ce-element-show
 
 ! Jun 4, 2026 https://lk.megafon.ru
 lk.megafon.ru##div.stories-list
+
+habr.com##section.tm-block:has(> header .tm-block__title:has-text(/^(Читают сейчас|Ближайшие события|Истории)$/))
