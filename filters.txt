@@ -466,7 +466,10 @@ ozon.ru##[data-widget="bannerCarousel"]
 ozon.ru##[data-widget="header"] div:has(> div > [data-widget="bigPromoCounterNavbar"])
 ozon.ru##[data-widget="seasonWidget"]
 ! Home-page recommendations (the same grid is used for search results)
+ozon.ru##:matches-path(/^\/(?:\?|$)/) #contentScrollPaginator
 ozon.ru##:matches-path(/^\/(?:\?|$)/) [data-widget="tileGridDesktop"]
+! The whole "Подобрали для вас" paginator on product pages
+ozon.ru##:matches-path(/^\/product\//) [data-widget="paginator"]:has(> div > [data-widget="row"] > [data-widget="column"] > [data-widget="tileGridDesktop"])
 ! Product-page recommendations, including those between reviews
 ozon.ru##:matches-path(/^\/product\//) [data-widget="tileGridDesktop"]
 ozon.ru##:matches-path(/^\/product\//) [data-widget="tileScrollDesktop"]
