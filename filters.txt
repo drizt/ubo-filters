@@ -458,3 +458,16 @@ youtube.com###movie_player div.ytp-ce-hide-button-container.ytp-ce-element-show
 lk.megafon.ru##div.stories-list
 
 habr.com##section.tm-block:has(> header .tm-block__title:has-text(/^(Читают сейчас|Ближайшие события|Истории)$/))
+
+! Nov 7, 2026 https://www.ozon.ru
+! Advertising and promotional banners
+ozon.ru##[data-widget="advBanner"]
+ozon.ru##[data-widget="bannerCarousel"]
+ozon.ru##[data-widget="header"] div:has(> div > [data-widget="bigPromoCounterNavbar"])
+ozon.ru##[data-widget="seasonWidget"]
+! Home-page recommendations (the same grid is used for search results)
+ozon.ru##:matches-path(/^\/(?:\?|$)/) [data-widget="tileGridDesktop"]
+! Product-page recommendations, including those between reviews
+ozon.ru##:matches-path(/^\/product\//) [data-widget="tileGridDesktop"]
+ozon.ru##:matches-path(/^\/product\//) [data-widget="tileScrollDesktop"]
+ozon.ru##:matches-path(/^\/product\//) [data-widget="webCollections"]
